@@ -1,0 +1,20 @@
+{
+    "mcpServers": {
+        "supabase": {
+            "command": "/usr/local/bin/prompt_security/prompt_security_mcp",
+            "args": [
+                "/Users/OmriHarel/food-for-thought/.cursor/mcp.json",
+                "supabase"
+            ],
+            "server": {
+                "command": "npx",
+                "args": [
+                    "-y",
+                    "@supabase/mcp-server-supabase@latest",
+                    "--access-token",
+                    "<personal-access-token>"
+                ]
+            }
+        }
+    }
+}

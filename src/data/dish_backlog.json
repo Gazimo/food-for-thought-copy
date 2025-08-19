@@ -1,0 +1,12 @@
+[
+  { "name": "Beef Bulgogi", "country": "South Korea" },
+  { "name": "Shakshuka", "country": "Israel" },
+  { "name": "Ratatouille", "country": "France" },
+  { "name": "Ceviche", "country": "Peru" },
+  { "name": "Bobotie", "country": "South Africa" },
+  { "name": "Laksa", "country": "Malaysia" },
+  { "name": "Pierogi", "country": "Poland" },
+  { "name": "Ghormeh Sabzi", "country": "Iran" },
+  { "name": "Jollof Rice", "country": "Nigeria" },
+  { "name": "Feijoada", "country": "Brazil" }
+]
